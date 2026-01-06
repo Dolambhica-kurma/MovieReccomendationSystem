@@ -58,3 +58,10 @@ Interstellar
 The Avengers
 
 (Results may vary depending on dataset and preprocessing.)
+
+## 🔑 Key Skills Demonstrated
+- Data preprocessing and feature engineering
+- Text vectorization using TF-IDF
+- Similarity-based recommendation logic
+- Python-based machine learning workflows
+- Problem solving using real-world datasets
